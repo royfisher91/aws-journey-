@@ -1,0 +1,9 @@
+Today i created a simple storage service on aws.
+so i will explain what i did and then upload photos/screenshots from my sandbox to show what i did 
+so i used a sandbox for part of this but then i needed root access so i had to use my own aws account as you will see 
+
+so along my journey i ran into an issues witch i believe is a good thing as this was setting up a root user the issues was at verification step 4 as my aws acccount for root wouldnt proceed so i was talking to support witch is good for anyone to use when troubleshooting issues 
+this is still awaiting to be solved but it will get done 
+
+
+
